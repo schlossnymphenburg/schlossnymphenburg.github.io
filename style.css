@@ -2,6 +2,7 @@
 	align-content: center;
 	font-family: 'Roboto Mono', serif;
 	text-align: center;
+	max-width: 80%;
 }
 	
 a:link {
@@ -18,4 +19,8 @@ a:hover {
 	
 a:active {
 	color: black;
+}
+
+img {
+	max-width: 80%;	
 }
