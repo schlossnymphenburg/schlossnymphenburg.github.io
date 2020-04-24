@@ -1,0 +1,25 @@
+.text {
+	  align-content: center;
+	  font-family: 'Roboto Mono', serif;
+	  text-align: center;
+	}
+	
+	a:link {
+	  color: black; 
+	}
+	
+	a:visited {
+	  color: black;
+	}
+	
+	a:hover {
+	  color: #B3BDB6;
+	}
+	
+	a:active {
+	  color: black;
+	}
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
