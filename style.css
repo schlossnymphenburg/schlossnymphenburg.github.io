@@ -11,13 +11,12 @@
 
 .heading {
 	position: relative;
-	height: 50px;
+	height: 20px;
 	border: 3px;
 }
 
 .content {
 	position: relative;
-	top : 50px;
 	border: 3px;
 }
 	
