@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0;">
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
+<title>Ronald Thieme</title>
+
+<link rel="stylesheet" href="c/style.css">
+
+</head>
+    
+<body>
+
+    <div class="Page">
+
+<header>
+    <h1>Ronald Thieme</h1>
+     <!--<img class="logo" src="p/oldlogo.png" />
+            DIE BEZIEHUNG VON HTML, CSS UND JAVASCRIPT
+        --> 
+</header>
+
+
+<div id="zierleiste"></div>
+        
+<nav>
+    <ul>
+      <li><a href="Bestandsaufnahme.html">Bestandsaufnahme</a></li>
+         <li> <a href="Nebelsequenz.html">Nebelsequenz</a></li>
+         <li><a href="Grafiken.html">Grafiken</a></li>
+    </ul>
+</nav>
+    
+<div id="zierleiste"></div>
+    
+<main>
+    
+<article>
+
+<div class="left">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/__tOr_CN9pU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+ 
+</div>
+
+    <div class="right">
+        <h2>Franz Kiermaier Bestandsaufnahme</h2>
+<p>Filmische Auseinandersetzung mit der nationalsozialistischen Vergangenheit des eigenen Großvaters anhand eines angefragten Dokuments des Rotkreuz Suchdienstes.</p>
+
+        </div>
+    
+</article>
+
+    
+
+
+</main>    
+
+</div>
+
+</body>
+</html>
